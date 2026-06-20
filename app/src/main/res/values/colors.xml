@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Screen backgrounds (dusty rose used across all GeneFlow screens) -->
+    <color name="screen_bg">#E8D8DA</color>
+    <color name="screen_bg_deep">#E2D0D3</color>
+    <color name="card_white">#FFFFFF</color>
+    <color name="card_pink">#FCEFF0</color>
+    <color name="row_pink">#FCEFF0</color>
+    <color name="row_border">#F2C9CE</color>
+    <color name="field_rose">#E6CFD2</color>
+    <color name="field_white">#FFFFFF</color>
+    <color name="field_border">#D9BFC3</color>
+
+    <!-- Brand buttons -->
+    <color name="dark_teal">#16404D</color>
+    <color name="dark_teal_pressed">#0E2E38</color>
+    <color name="primary_green">#1FA600</color>
+    <color name="save_green">#2EC84B</color>
+    <color name="accent_red">#E53935</color>
+    <color name="grey_button">#B7AEB0</color>
+
+    <!-- Status dots -->
+    <color name="status_red">#E53935</color>
+    <color name="status_grey">#A0A0A0</color>
+    <color name="status_green">#3DD35C</color>
+    <color name="status_blue">#2D8FF0</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1B1B1B</color>
+    <color name="text_secondary">#5C5C5C</color>
+    <color name="text_hint">#8A8A8A</color>
+    <color name="text_active">#2EA84F</color>
+    <color name="text_link">#DC5C7A</color>
+    <color name="text_risk">#E53935</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- DNA logo accents -->
+    <color name="dna_blue">#6E8BD6</color>
+    <color name="dna_pink">#D98AA6</color>
+</resources>

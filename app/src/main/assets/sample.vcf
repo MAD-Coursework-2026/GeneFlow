@@ -1,0 +1,15 @@
+##fileformat=VCFv4.2
+##source=GeneFlowSample
+##INFO=<ID=AF,Number=A,Type=Float,Description="Allele Frequency">
+##INFO=<ID=GENE,Number=1,Type=String,Description="Gene Symbol">
+##INFO=<ID=REVEL,Number=1,Type=Float,Description="REVEL pathogenicity score">
+##INFO=<ID=GERP,Number=1,Type=Float,Description="GERP conservation score">
+##INFO=<ID=CLNSIG,Number=1,Type=String,Description="ClinVar clinical significance">
+##INFO=<ID=ANN,Number=1,Type=String,Description="Functional annotation">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+17	43094464	rs80357906	C	CG	99	PASS	AF=0.0001;GENE=BRCA1;REVEL=0.94;GERP=5.2;CLNSIG=Pathogenic;ANN=frameshift_variant
+13	32340301	rs80359550	A	T	95	PASS	AF=0.0003;GENE=BRCA2;REVEL=0.88;GERP=4.8;CLNSIG=Pathogenic;ANN=stop_gained
+7	117559590	rs113993960	CTT	C	90	PASS	AF=0.01;GENE=CFTR;REVEL=0.75;GERP=4.1;CLNSIG=Likely_pathogenic;ANN=inframe_deletion
+1	17350500	rs1042522	G	C	80	PASS	AF=0.35;GENE=TP53;REVEL=0.30;GERP=1.2;CLNSIG=Benign;ANN=missense_variant
+11	5226797	rs334	T	A	88	PASS	AF=0.02;GENE=HBB;REVEL=0.60;GERP=3.5;CLNSIG=Pathogenic;ANN=missense_variant
+2	47480000	rs63750000	G	A	70	PASS	AF=0.20;GENE=MSH2;REVEL=0.25;GERP=0.8;CLNSIG=Benign;ANN=synonymous_variant

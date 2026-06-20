@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_dialog"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:text="@string/choose_upload_source"
+        android:textColor="@color/dark_teal"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+
+    <!-- Local device -->
+    <LinearLayout
+        android:id="@+id/rowLocal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_field_white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="14dp">
+
+        <ImageView android:layout_width="24dp" android:layout_height="24dp"
+            android:src="@drawable/ic_device" android:contentDescription="" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_marginStart="14dp" android:text="@string/local_device"
+            android:textColor="@color/text_primary" android:textSize="15sp" />
+    </LinearLayout>
+
+    <!-- Google Drive -->
+    <LinearLayout
+        android:id="@+id/rowGoogleDrive"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_field_white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="14dp">
+
+        <ImageView android:layout_width="24dp" android:layout_height="24dp"
+            android:src="@drawable/ic_cloud_blue" android:contentDescription="" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_marginStart="14dp" android:text="@string/google_drive"
+            android:textColor="@color/text_primary" android:textSize="15sp" />
+    </LinearLayout>
+
+    <!-- One Drive -->
+    <LinearLayout
+        android:id="@+id/rowOneDrive"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_field_white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="14dp">
+
+        <ImageView android:layout_width="24dp" android:layout_height="24dp"
+            android:src="@drawable/ic_cloud_blue" android:contentDescription="" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_marginStart="14dp" android:text="@string/one_drive"
+            android:textColor="@color/text_primary" android:textSize="15sp" />
+    </LinearLayout>
+
+    <!-- Secure profile link -->
+    <LinearLayout
+        android:id="@+id/rowSecureLink"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_field_white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="14dp">
+
+        <ImageView android:layout_width="24dp" android:layout_height="24dp"
+            android:src="@drawable/ic_link" android:contentDescription="" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_marginStart="14dp" android:text="@string/secure_profile_link"
+            android:textColor="@color/text_primary" android:textSize="15sp" />
+    </LinearLayout>
+
+    <!-- Cancel -->
+    <TextView
+        android:id="@+id/btnCancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/bg_button_grey"
+        android:gravity="center"
+        android:paddingTop="12dp"
+        android:paddingBottom="12dp"
+        android:text="@string/cancel"
+        android:textColor="@color/text_primary"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+</LinearLayout>

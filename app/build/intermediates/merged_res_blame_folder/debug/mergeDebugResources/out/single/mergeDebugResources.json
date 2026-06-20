@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_ic_upload_cloud.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/ic_upload_cloud.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_bg_pill_grey.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/bg_pill_grey.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/layout_dialog_message.xml.flat",
+        "source": "com.geneflow.app-main-26:/layout/dialog_message.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_bg_search.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/bg_search.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_bg_panel_rose.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/bg_panel_rose.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_ic_report.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/ic_report.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/layout_item_patient.xml.flat",
+        "source": "com.geneflow.app-main-26:/layout/item_patient.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_ic_search.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_ic_link.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/ic_link.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_ic_active.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/ic_active.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_bg_card_white.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/bg_card_white.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_status_dot_blue.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/status_dot_blue.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/layout_activity_dashboard.xml.flat",
+        "source": "com.geneflow.app-main-26:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/layout_dialog_upload_source.xml.flat",
+        "source": "com.geneflow.app-main-26:/layout/dialog_upload_source.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_ic_back.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/layout_activity_login.xml.flat",
+        "source": "com.geneflow.app-main-26:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_bg_card_pink.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/bg_card_pink.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_status_dot_grey.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/status_dot_grey.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_bg_patient_row.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/bg_patient_row.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_status_dot_red.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/status_dot_red.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_ic_relation_mother.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/ic_relation_mother.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_ic_cloud_blue.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/ic_cloud_blue.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/layout_activity_pedigree.xml.flat",
+        "source": "com.geneflow.app-main-26:/layout/activity_pedigree.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_ic_relation_child.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/ic_relation_child.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_ic_dna_small.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/ic_dna_small.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_bg_field_rose.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/bg_field_rose.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_bg_button_outline.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/bg_button_outline.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/layout_activity_main.xml.flat",
+        "source": "com.geneflow.app-main-26:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_ic_device.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/ic_device.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_bg_button_grey.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/bg_button_grey.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_bg_button_save.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/bg_button_save.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_ic_apple.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/ic_apple.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_ic_relation_father.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/ic_relation_father.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_ic_dna.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/ic_dna.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_ic_trash.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/ic_trash.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_bg_button_teal.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/bg_button_teal.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_ic_chevron_down.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/ic_chevron_down.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/layout_activity_patient_registration.xml.flat",
+        "source": "com.geneflow.app-main-26:/layout/activity_patient_registration.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_bg_field_white.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/bg_field_white.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_ic_person.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_bg_avatar.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/bg_avatar.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_bg_dialog.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/bg_dialog.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_status_dot_green.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/status_dot_green.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_bg_button_green.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/bg_button_green.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_ic_saved_check.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/ic_saved_check.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/layout_activity_profile_view.xml.flat",
+        "source": "com.geneflow.app-main-26:/layout/activity_profile_view.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_ic_family.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/ic_family.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/drawable_ic_google.xml.flat",
+        "source": "com.geneflow.app-main-26:/drawable/ic_google.xml"
+    },
+    {
+        "merged": "com.geneflow.app-debug-24:/layout_activity_signup.xml.flat",
+        "source": "com.geneflow.app-main-26:/layout/activity_signup.xml"
+    }
+]

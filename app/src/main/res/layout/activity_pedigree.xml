@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/screen_bg"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="18dp">
+
+        <!-- Header -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingBottom="14dp">
+
+            <ImageView
+                android:id="@+id/btnBack"
+                android:layout_width="26dp"
+                android:layout_height="26dp"
+                android:src="@drawable/ic_back"
+                android:contentDescription="@string/back" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_weight="1"
+                android:text="@string/view_full_pedigree"
+                android:textColor="@color/dark_teal"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <!-- Family tree card -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_card_white"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <!-- Parents row -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="46dp"
+                        android:layout_height="46dp"
+                        android:src="@drawable/ic_relation_father"
+                        android:contentDescription="Father" />
+
+                    <TextView style="@style/TreeName" android:text="Father" />
+                    <TextView android:id="@+id/txtFatherStatus" style="@style/TreeStatus" android:text="No File" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="46dp"
+                        android:layout_height="46dp"
+                        android:src="@drawable/ic_relation_mother"
+                        android:contentDescription="Mother" />
+
+                    <TextView style="@style/TreeName" android:text="Mother" />
+                    <TextView android:id="@+id/txtMotherStatus" style="@style/TreeStatus" android:text="Positive" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <!-- connector -->
+            <View
+                android:layout_width="2dp"
+                android:layout_height="22dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@color/dark_teal" />
+
+            <!-- Primary patient -->
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="52dp"
+                    android:layout_height="52dp"
+                    android:src="@drawable/ic_person"
+                    android:contentDescription="Primary patient" />
+
+                <TextView android:id="@+id/txtPrimaryName" style="@style/TreeName" android:text="Primary Patient" />
+                <TextView android:id="@+id/txtPrimaryStatus" style="@style/TreeStatus" android:text="Positive" />
+            </LinearLayout>
+
+            <!-- connector -->
+            <View
+                android:layout_width="2dp"
+                android:layout_height="22dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@color/dark_teal" />
+
+            <!-- Child -->
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="46dp"
+                    android:layout_height="46dp"
+                    android:src="@drawable/ic_relation_child"
+                    android:contentDescription="Son" />
+
+                <TextView style="@style/TreeName" android:text="Son" />
+                <TextView android:id="@+id/txtSonStatus" style="@style/TreeStatus" android:text="Negative" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <!-- Member details -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18dp"
+            android:layout_marginBottom="6dp"
+            android:text="@string/member_details"
+            android:textColor="@color/dark_teal"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <!-- Profile sub-card -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_card_white"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/profile"
+                android:textColor="@color/dark_teal"
+                android:textSize="13sp"
+                android:textStyle="bold" />
+
+            <TextView android:id="@+id/txtDetailName" style="@style/RowLine" android:text="Name:  Ahmed Khan" />
+            <TextView android:id="@+id/txtDetailAge" style="@style/RowLine" android:text="Age:  32" />
+            <TextView android:id="@+id/txtDetailId" style="@style/RowLine" android:text="ID:  12345678" />
+            <TextView android:id="@+id/txtDetailStatus" style="@style/RowLine" android:text="Status:  Affected" />
+
+            <!-- Lifetime risk -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/life_time_risk"
+                    android:textColor="@color/text_primary"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/txtRisk"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="72%"
+                    android:textColor="@color/status_red"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <!-- Genomic data -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:text="@string/genomic_data"
+                android:textColor="@color/dark_teal"
+                android:textSize="13sp"
+                android:textStyle="bold" />
+
+            <TextView android:id="@+id/txtTarget" style="@style/RowLine" android:text="Target:  HBOC" />
+            <TextView android:id="@+id/txtVariant" style="@style/RowLine" android:text="Variant:  BRCA1 Pathogenic" />
+            <TextView android:id="@+id/txtAlteration" style="@style/RowLine" android:text="Alteration:  c.5266dupC" />
+            <TextView android:id="@+id/txtGenomicStatus" style="@style/RowLine" android:text="Status:  Affected" />
+        </LinearLayout>
+
+        <!-- Upload VCF -->
+        <TextView
+            android:id="@+id/btnUploadVcf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/bg_button_teal"
+            android:gravity="center"
+            android:paddingTop="14dp"
+            android:paddingBottom="14dp"
+            android:text="@string/upload_vcf_file"
+            android:textColor="@android:color/white"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeneFlow</string>
+
+    <!-- Screen 1: Main -->
+    <string name="app_tagline">Integrated Clinical Genomics and Family Pedigree Tracking Platform</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_account">Create Account</string>
+    <string name="empowering">Empowering your Genomics Practice</string>
+
+    <!-- Screen 2: Signup -->
+    <string name="already_have_account">Already Have an Account? </string>
+    <string name="login">Login</string>
+    <string name="signup_for">Sign up for GeneFlow</string>
+    <string name="continue_google">Continue with Google</string>
+    <string name="continue_apple">Continue with Apple</string>
+    <string name="or">or</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="enter_username">Enter your username</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="create_account_arrow">Create Account &#8250;</string>
+    <string name="terms">By creating an account, you agree to the Terms of Service.</string>
+
+    <!-- Screen 3: Login -->
+    <string name="sign_in_to">Sign in to GeneFlow</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="new_to">New to HelixTree? </string>
+    <string name="create_an_account">Create an account</string>
+
+    <!-- Screen 4: Dashboard -->
+    <string name="dashboard">Dashboard</string>
+    <string name="active">Active</string>
+    <string name="doctor_name">Dr. Sana Irfan</string>
+    <string name="search_patients">Search Patients</string>
+    <string name="col_patient">Patient</string>
+    <string name="col_status">Status</string>
+    <string name="col_actions">Actions</string>
+    <string name="new_patient_registration">New Patient Registration</string>
+    <string name="patient_metrics">Patient metrices</string>
+    <string name="total_patients">Total Patients</string>
+    <string name="total_families">Total Families</string>
+    <string name="pending_vcfs">Pending VCFs</string>
+    <string name="filter_by_status">Filter by Status</string>
+    <string name="recent_alerts">Recent Alerts</string>
+    <string name="patient_deleted">Patient deleted successfully from the system</string>
+    <string name="ok">OK</string>
+
+    <!-- Screen 5: Patient Registration -->
+    <string name="patient_registration">Patient Registration</string>
+    <string name="primary_patient_registration">Primary Patient Registration</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="gender">Gender</string>
+    <string name="age">Age</string>
+    <string name="health">Health</string>
+    <string name="disease_panel">Disease Panel</string>
+    <string name="upload_vcf_file">Upload Vcf File</string>
+    <string name="register_multi_family">Register as multi member family</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="select_relation">Select Relation</string>
+    <string name="back">Back</string>
+    <string name="proceed">Proceed</string>
+    <string name="patient_saved">Patient is saved in this system.</string>
+
+    <!-- Screen 15: Upload source dialog -->
+    <string name="choose_upload_source">Choose Upload Source</string>
+    <string name="local_device">Local Device Files</string>
+    <string name="google_drive">Google Drive</string>
+    <string name="one_drive">One Drive</string>
+    <string name="secure_profile_link">Insert Secure Profile Link</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Screen 6: Profile View -->
+    <string name="profile_view">Profile View</string>
+    <string name="demographics">DEMOGRAPHICS &amp; CONTACTS</string>
+    <string name="medical_history">MEDICAL HISTORY &amp; NOTES</string>
+    <string name="current_acmg">CURRENT ACMG STATUS</string>
+    <string name="genome_dispatcher">GENOME DATA DISPATCHER</string>
+    <string name="upload_new_vcf">UPLOAD NEW VCF FILE</string>
+    <string name="view_full_pedigree">View Full Pedigree</string>
+
+    <!-- Screen 7: Pedigree / Tree view -->
+    <string name="member_details">Member Details</string>
+    <string name="life_time_risk">Life Time\nDisease Risk</string>
+    <string name="profile">Profile</string>
+    <string name="genomic_data">Genomic Data</string>
+</resources>
