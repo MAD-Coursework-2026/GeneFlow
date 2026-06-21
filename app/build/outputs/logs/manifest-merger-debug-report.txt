@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:2:1-31:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\HP\.gradle\caches\9.2.1\transforms\807380a9788b5ac1b8d2f0d4ea9d15c0\workspace\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\HP\.gradle\caches\9.2.1\transforms\8d68fae7917e64b5946bf1cc4fb292d6\workspace\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\HP\.gradle\caches\9.2.1\transforms\8a7c3a8c74fe4d379d44ac83edb189be\workspace\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
@@ -45,8 +45,8 @@ MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\HP\.gra
 	xmlns:android
 		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:4:5-28:19
-INJECTED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:4:5-28:19
+ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:4:5-29:19
+INJECTED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:4:5-29:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\HP\.gradle\caches\9.2.1\transforms\807380a9788b5ac1b8d2f0d4ea9d15c0\workspace\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\HP\.gradle\caches\9.2.1\transforms\807380a9788b5ac1b8d2f0d4ea9d15c0\workspace\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HP\.gradle\caches\9.2.1\transforms\515c573b7b44b0c02c42dda5f13cd9e3\workspace\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
@@ -64,69 +64,69 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HP
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\9.2.1\transforms\c5d6ef8ef8ea12352d74c3a61adc6420\workspace\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:7:9-41
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:9:9-41
 	android:roundIcon
-		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:8:9-54
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:7:9-63
 	android:icon
-		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:6:9-43
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:6:9-58
 	android:allowBackup
 		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:5:9-35
 	android:theme
-		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:10:9-46
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:11:9-46
 activity#com.geneflow.app.MainActivity
-ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:12:9-19:20
+ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:13:9-20:20
 	android:exported
-		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:14:13-36
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:15:13-36
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:13:13-41
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:14:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:15:13-18:29
+ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:16:13-19:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:17:17-77
+ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:17:27-74
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:18:27-74
 activity#com.geneflow.app.LoginActivity
-ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:21:9-76
+ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:22:9-76
 	android:exported
-		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:21:49-73
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:22:49-73
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:21:19-48
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:22:19-48
 activity#com.geneflow.app.SignupActivity
-ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:22:9-77
+ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:23:9-77
 	android:exported
-		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:22:50-74
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:23:50-74
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:22:19-49
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:23:19-49
 activity#com.geneflow.app.DashboardActivity
-ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:23:9-80
+ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:24:9-80
 	android:exported
-		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:23:53-77
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:24:53-77
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:23:19-52
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:24:19-52
 activity#com.geneflow.app.PatientRegistrationActivity
-ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:24:9-90
+ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:25:9-90
 	android:exported
-		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:24:63-87
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:25:63-87
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:24:19-62
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:25:19-62
 activity#com.geneflow.app.ProfileViewActivity
-ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:25:9-82
+ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:26:9-82
 	android:exported
-		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:25:55-79
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:26:55-79
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:25:19-54
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:26:19-54
 activity#com.geneflow.app.PedigreeActivity
-ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:26:9-79
+ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:27:9-79
 	android:exported
-		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:26:52-76
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:27:52-76
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:26:19-51
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:27:19-51
 uses-sdk
 INJECTED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml

@@ -20,76 +20,76 @@
 15-->[androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\9.2.1\transforms\c5d6ef8ef8ea12352d74c3a61adc6420\workspace\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:4:5-28:19
+17-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:4:5-29:19
 18        android:allowBackup="true"
 18-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:5:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 19-->[androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\9.2.1\transforms\c5d6ef8ef8ea12352d74c3a61adc6420\workspace\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 20        android:debuggable="true"
 21        android:extractNativeLibs="false"
-22        android:icon="@mipmap/ic_launcher"
-22-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:6:9-43
+22        android:icon="@android:drawable/sym_def_app_icon"
+22-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:6:9-58
 23        android:label="@string/app_name"
-23-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:7:9-41
-24        android:roundIcon="@mipmap/ic_launcher_round"
-24-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:8:9-54
+23-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:9:9-41
+24        android:roundIcon="@android:drawable/sym_def_app_icon"
+24-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:7:9-63
 25        android:supportsRtl="true"
-25-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:9:9-35
+25-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:10:9-35
 26        android:theme="@style/Theme.GeneFlow" >
-26-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:10:9-46
+26-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:11:9-46
 27        <activity
-27-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:12:9-19:20
+27-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:13:9-20:20
 28            android:name="com.geneflow.app.MainActivity"
-28-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:13:13-41
+28-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:14:13-41
 29            android:exported="true" >
-29-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:14:13-36
+29-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:15:13-36
 30            <intent-filter>
-30-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:15:13-18:29
+30-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:16:13-19:29
 31                <action android:name="android.intent.action.MAIN" />
-31-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:16:17-69
-31-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:16:25-66
+31-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:17:17-69
+31-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:17:25-66
 32
 33                <category android:name="android.intent.category.LAUNCHER" />
-33-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:17:17-77
-33-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:17:27-74
+33-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:18:17-77
+33-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:18:27-74
 34            </intent-filter>
 35        </activity>
 36        <activity
-36-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:21:9-76
+36-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:22:9-76
 37            android:name="com.geneflow.app.LoginActivity"
-37-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:21:19-48
+37-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:22:19-48
 38            android:exported="false" />
-38-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:21:49-73
+38-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:22:49-73
 39        <activity
-39-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:22:9-77
+39-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:23:9-77
 40            android:name="com.geneflow.app.SignupActivity"
-40-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:22:19-49
+40-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:23:19-49
 41            android:exported="false" />
-41-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:22:50-74
+41-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:23:50-74
 42        <activity
-42-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:23:9-80
+42-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:24:9-80
 43            android:name="com.geneflow.app.DashboardActivity"
-43-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:23:19-52
+43-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:24:19-52
 44            android:exported="false" />
-44-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:23:53-77
+44-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:24:53-77
 45        <activity
-45-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:24:9-90
+45-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:25:9-90
 46            android:name="com.geneflow.app.PatientRegistrationActivity"
-46-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:24:19-62
+46-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:25:19-62
 47            android:exported="false" />
-47-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:24:63-87
+47-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:25:63-87
 48        <activity
-48-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:25:9-82
+48-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:26:9-82
 49            android:name="com.geneflow.app.ProfileViewActivity"
-49-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:25:19-54
+49-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:26:19-54
 50            android:exported="false" />
-50-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:25:55-79
+50-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:26:55-79
 51        <activity
-51-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:26:9-79
+51-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:27:9-79
 52            android:name="com.geneflow.app.PedigreeActivity"
-52-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:26:19-51
+52-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:27:19-51
 53            android:exported="false" />
-53-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:26:52-76
+53-->C:\Users\HP\AndroidStudioProjects\GeneFlow\app\src\main\AndroidManifest.xml:27:52-76
 54
 55        <provider
 55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\HP\.gradle\caches\9.2.1\transforms\515c573b7b44b0c02c42dda5f13cd9e3\workspace\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
