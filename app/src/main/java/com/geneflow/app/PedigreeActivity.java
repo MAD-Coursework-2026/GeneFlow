@@ -1,3 +1,4 @@
+// Activity responsible for rendering the familial risk visualizer
 package com.geneflow.app;
 
 import android.os.Bundle;
