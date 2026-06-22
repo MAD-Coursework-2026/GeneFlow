@@ -5,7 +5,7 @@ public class Alert {
     public long id;
     public String patientName;
     public String message;
-    public int type; // 0 red, 2 green (matches status colours)
+    public int type; 
 
     public Alert(String patientName, String message, int type) {
         this.patientName = patientName;
