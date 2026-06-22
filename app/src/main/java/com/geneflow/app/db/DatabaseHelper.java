@@ -161,6 +161,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         return getWritableDatabase().insert(T_ALERTS, null, cv);
     }
 
+
     public List<Alert> getAlerts() {
         List<Alert> list = new ArrayList<>();
         Cursor c = getReadableDatabase().rawQuery(
