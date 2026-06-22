@@ -16,24 +16,8 @@ ACMG-style rules, and visualises disease risk and family inheritance.
 
 ---
 
-## 1. Quick start (the important part)
+## 1. Quick start 
 
-1. Open **Android Studio → New Project → Empty Views Activity**.
-2. Set:
-   - **Name:** `GeneFlow`
-   - **Package name:** `com.geneflow.app`
-   - **Language:** `Java`
-   - **Build configuration language:** `Groovy DSL (build.gradle)`
-   - **Minimum SDK:** `API 24`
-3. Let Gradle finish its first sync.
-4. **Delete the file `app/src/main/res/values-night/themes.xml`** (the template puts a
-   Material3 theme there that this project does not use; leaving it causes a build error).
-5. Copy the files from this zip into your project, matching the folder map in section 2.
-   When a file already exists (e.g. `MainActivity.java`, `activity_main.xml`,
-   `colors.xml`, `strings.xml`, `themes.xml`, `AndroidManifest.xml`, `build.gradle`),
-   **overwrite it** with the version from this zip.
-6. Open `app/build.gradle` and **Sync Now**.
-7. Run the app on an emulator or device.
 
 **Demo login:** `sana@geneflow.com`  /  password `12345678`
 (or tap **Create Account** to register a new clinician).
